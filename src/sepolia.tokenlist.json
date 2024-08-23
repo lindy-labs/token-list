@@ -15,6 +15,13 @@
       "symbol": "STRK",
       "decimals": 18,
       "logoUri": "https://assets.coingecko.com/coins/images/26433/standard/starknet.png"
+    },
+    {
+      "name": "Cash",
+      "address": "0x0398c179d65929f3652b6b82875eaf5826ea1c9a9dd49271e0d749328186713e",
+      "symbol": "CASH",
+      "decimals": 18,
+      "logoUri": "https://raw.githubusercontent.com/lindy-labs/opus_contracts/main/assets/CASH_no_margin_1x.png"
     }
   ]
 }
